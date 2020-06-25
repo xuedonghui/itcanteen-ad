@@ -1,0 +1,13 @@
+server:
+  port: 9009
+spring:
+  application:
+    name: tensquare_sms
+  rabbitmq:
+    host: 192.168.47.130
+aliyun:
+  sms:
+    accessKeyId: LTAI4FsEEwZoeSpaBpy3AiZN
+    accessKeySecret: 0xgqKdx9gjZxy3lIjSRyEcK3DbNvE4
+    template_code: SMS_187741585
+    sign_name: 一米阳光
